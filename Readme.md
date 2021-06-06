@@ -1,18 +1,8 @@
-### Inleiding:
+# Introduction
 
-Gebruik deze tabel als volgt, tijdens de lessen worden er opdrachten gegeven, dit zijn deels opdrachten waarbij de
-uitwerking worden besproken als opdrachten die je thuis kan maken. In deze huiswerk opdrachten komen de meeste
-onderwerpen aan de orde die in de onderstaande tabel zijn opgenomen.
+This repository is a clone of a Gitlab repo. This repo contains all of the code that i worked on during my semester of Applied Artificial Intelligence at AUAS.
 
-Maak de huiswerkopdrachten en analyseer welke onderwerpen in de opdracht zijn gebruikt, en op welk niveau. Gebruikt de
-uitgewerkte opdracht dan als bewijs voor deze onderdelen in je logboek.
-
-Ook kan je delen uit het project gebruiken, geef dan wel duidelijk aan wat JIJ gemaakt hebt en wat het doel en functie
-is.
-
-Het kan ook zijn dat je een een tutorial volgt op het internet de uitkomst van de tutorial is niet geschikt voor in je
-logboek. Als je vervolgens de tutorial resultaten omzet en aanpast voor je eigen doeleind is dat resultaat wel geschikt
-voor het logboek. Je moet dan duidelijk aangeven welk deel eigenwerk is en welk deel resultaat van de tutorial.
+The readme is split up into bootcamp and logbook. Bootcamp was a 2 week crash course of the basics of AI. Logbook contains assignments mapped to their respective topics. To navigate click the links.
 
 #### Bootcamp
 
